@@ -1,1 +1,3 @@
-// add solution here
+function johnLennonFacts(){}
+function theBeatlesPlay(){}
+function iLoveTheBeatles(){}
