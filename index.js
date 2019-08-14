@@ -13,4 +13,11 @@ function theBeatlesPlay(musicians, instruments){
     x.push(temp)
   } return x
 }
-function iLoveTheBeatles(){}
+function iLoveTheBeatles(i){
+  let x=[]
+  let love = "I love the Beatles!"
+  do {
+    x.push(love)
+    i++
+  } while(i < 15)
+}
